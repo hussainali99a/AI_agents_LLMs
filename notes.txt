@@ -1,0 +1,23 @@
+Fine tunning LLM models 
+
+1. Quantization
+
+-- full precision / half precision
+-- calibration
+-- modes of Quantization
+
+Quantization : conversion from higher memory format to lower memory format.
+
+FP 32 bits - stored in floating points (full precision) (values stored in memory)
+
+we make this 32 bit to lower memory like int 8 and then download the moddel to use otherwise it will 
+take large amount of space.
+
+
+
+callibration : 
+
+How to perform Quantization:
+
+-- symmetric / -- asymmetric 
+
